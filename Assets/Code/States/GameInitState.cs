@@ -8,6 +8,7 @@ public class GameInitState : StateMachineBehaviour
     {
         Debug.Log("GameInit state enter.");
         Game.gameStateMachine = animator;
+        Game.gameCamera = Camera.main;
         animator.SetTrigger("LoadingGame");
     }
 

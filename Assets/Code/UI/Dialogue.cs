@@ -12,6 +12,7 @@ public class Dialogue : MonoBehaviour
 
 
    public void Show() {
+       
        this.gameObject.SetActive(true);
        m_image.enabled = true;
        m_panel.enabled = true;

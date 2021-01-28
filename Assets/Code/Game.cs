@@ -7,6 +7,7 @@ public static class Game
 {
     public static UIController uiController;
     public static Animator gameStateMachine;
+    public static Camera gameCamera;
 
 
     public static GameObject FindControllerFromScene(Scene s){

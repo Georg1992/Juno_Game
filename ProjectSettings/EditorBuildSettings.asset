@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Juno.unity
     guid: f49b6a43f3f29479eac24187ad79e8c8
+  - enabled: 1
+    path: Assets/Scenes/MissionSelection.unity
+    guid: da9fabc06ab284b658096a7ee91029c8
+  - enabled: 1
+    path: Assets/Scenes/Core/Thisbe.unity
+    guid: 6160ec37ff8a943aa8bc94c794dfc5c1
   m_configObjects: {}
